@@ -1,0 +1,9 @@
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\bin\Debug\netcoreapp2.2\Modelo.Domain.deps.json
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\bin\Debug\netcoreapp2.2\Modelo.Domain.dll
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\bin\Debug\netcoreapp2.2\Modelo.Domain.pdb
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.csprojAssemblyReference.cache
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.csproj.CoreCompileInputs.cache
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.AssemblyInfoInputs.cache
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.AssemblyInfo.cs
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.dll
+D:\dev\git\Projetos TCC\Modelo_DDD\Modelo_DDD\Modelo.Domain\obj\Debug\netcoreapp2.2\Modelo.Domain.pdb
